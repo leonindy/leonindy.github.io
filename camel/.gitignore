@@ -1,0 +1,5 @@
+_book
+*.swp
+reference
+node_modules
+npm-debug.log
